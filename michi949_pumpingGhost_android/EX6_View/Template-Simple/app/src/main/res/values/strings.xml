@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shared Preferences Test</string>
+    <string name="action_settings">Settings</string>
+</resources>
